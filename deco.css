@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Kosugi+Maru&display=swap');
+
+body {
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  justify-content: center;
+  text-align: center;
+	font-family: 'Kosugi Maru', sans-serif;	
+}
