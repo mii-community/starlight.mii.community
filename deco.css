@@ -1,0 +1,10 @@
+@font-face{
+	font-family: "PixelMPlus12";
+	src: url(/font/PixelMplus12-Regular.ttf)
+}
+p {
+	background-color:	#2d2d2d;
+	color:						#d1d1d1;
+	text-align: 			center;
+	font-family: "PixelMPlus12";
+}
