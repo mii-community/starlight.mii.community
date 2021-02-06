@@ -3,8 +3,13 @@
 body {
   min-height: 100vh;
   margin: 0;
-  padding: 0;
+  padding: 0;	
   justify-content: center;
   text-align: center;
 	font-family: 'Kosugi Maru', sans-serif;	
+	color: #222255;
+}
+
+p {
+	font-size: 0.85em;
 }
