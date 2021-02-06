@@ -13,3 +13,13 @@ body {
 p {
 	font-size: 0.85em;
 }
+
+p2 {
+	text-align: right;
+}
+
+footer {
+	padding-left: 20%;
+	padding-right: 20%;
+	display: flex;
+}
