@@ -1,17 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Kosugi+Maru&display=swap');
 
-@media screen and (min-width: 767px) { /* PC用 */
-	#menu-bg {
-		background-color: #00FFFF; /*青色*/
-	}
-	}
-
-@media screen and (max-width: 479px) { /* スマホ用 */
-	#menu-bg {
-		background-color: #00FF00; /*緑色*/
-	}
-	}
-
 body {
 	min-height: 100vh;
 	margin: 0;
