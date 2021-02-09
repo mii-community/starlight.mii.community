@@ -1,6 +1,6 @@
 # Starlight
-
-ぼくの自己紹介用ホームページ的なアレです。
+## ぼくの自己紹介用ホームページ的なアレです。<br>
+![](assets/icon/icon.png)<br>
 
 # Description
 
