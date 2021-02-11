@@ -7,7 +7,12 @@ body {
 	justify-content: center;
 	text-align: center;
 		font-family: 'Kosugi Maru', sans-serif;	
-		color: #000043;
+		color: #010121;
+}
+
+hr {
+	color: #000000;
+	margin-top: 1.5%;
 }
 
 p {
