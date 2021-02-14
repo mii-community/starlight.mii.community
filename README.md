@@ -10,7 +10,7 @@
 ダークテーマ に対応予定です。<br>
 1億年後にでも...やりましょうか。<br>
 # Contributor
-- ![Assault](https://github.com/Assault-8448) (Starlight)
+- [Assault](https://github.com/Assault-8448) (Starlight)
   - このサイトのメインの制作者。Webサイト制作初心者です。よろしくね。
-- ![Tenzyu](https://github.com/Tenzyu)
+- [Tenzyu](https://github.com/Tenzyu)
   - リファクタリング。幼稚園生の落書きみたいなコードが一瞬で美大生の絵みたいになった。すげ～（小並感
