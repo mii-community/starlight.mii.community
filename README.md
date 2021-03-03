@@ -8,7 +8,7 @@
 まだまだ未完成故、変なところとかあったら容赦なく Issue 立ててください。<br>
 <br>
 ダークテーマ に対応予定です。5000兆年後にでも...やりましょうか。<br>
-JetBrains の Student ライセンスを手に入れたので WebStorm で開発してみます。がんばるぞい
+WebStorm を入手したのでしばらくはこいつでがんばります。
 # Contributor
 - [Assault](https://github.com/Assault-8448) (Starlight)
   - このサイトのメインの制作者。Webサイト制作初心者です。よろしくね。
