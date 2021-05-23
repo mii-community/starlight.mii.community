@@ -1,6 +1,7 @@
 # Starlight
 ### ぼくの自己紹介用ホームページ。<br>
-![](./assets/img/icon.png)<br>
+
+見てもいいことはないです。
 
 # Description
 
