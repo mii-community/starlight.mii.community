@@ -1,4 +1,2 @@
-# siteディレクトリは必要
-work/
-
-!work/site/
+# workディレクトリ爆破
+/work
