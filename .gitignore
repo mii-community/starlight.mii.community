@@ -1,0 +1,4 @@
+# siteディレクトリは必要
+work/
+
+!work/site/
