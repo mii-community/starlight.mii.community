@@ -6,17 +6,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://starlight.mii.community/About_Me/</loc>
+         <lastmod>2021-08-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://starlight.mii.community/Contact/</loc>
          <lastmod>2021-08-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://starlight.mii.community/My_Devices/</loc>
-         <lastmod>2021-08-07</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://starlight.mii.community/about_me/</loc>
          <lastmod>2021-08-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
