@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://starlight.mii.community/</loc>
-         <lastmod>2021-10-09</lastmod>
+         <lastmod>2021-10-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://starlight.mii.community/About_Me/</loc>
-         <lastmod>2021-10-09</lastmod>
+         <lastmod>2021-10-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://starlight.mii.community/Contact/</loc>
-         <lastmod>2021-10-09</lastmod>
+         <lastmod>2021-10-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://starlight.mii.community/My_Devices/</loc>
-         <lastmod>2021-10-09</lastmod>
+         <lastmod>2021-10-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
